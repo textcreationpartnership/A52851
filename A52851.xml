@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Isle of Pines, or, A late discovery of a fourth island in Terra Australis, Incognita being a true relation of certain English persons, who in the dayes of Queen Elizabeth, making a voyage to the East India, were cast away, and wracked upon the island near to the coast of Terra Australis, Incognita, and all drowned, except one man and four women, whereof one was a Negro : and now lately Anno Dom. 1667, a Dutch ship driven by foul weather there, by chance have found their posterity (speaking good English) to amount to ten or twelve thousand persons, as they suppose : the whole relation follows, written, and left by the man himself a little before his death, and declared to the Dutch by his grandchild.</title>
+            <author>Neville, Henry, 1620-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52851</idno>
+            <idno type="STC">Wing N505</idno>
+            <idno type="STC">ESTC R3547</idno>
+            <idno type="EEBO-CITATION">12892145</idno>
+            <idno type="OCLC">ocm 12892145</idno>
+            <idno type="VID">95125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 721:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Isle of Pines, or, A late discovery of a fourth island in Terra Australis, Incognita being a true relation of certain English persons, who in the dayes of Queen Elizabeth, making a voyage to the East India, were cast away, and wracked upon the island near to the coast of Terra Australis, Incognita, and all drowned, except one man and four women, whereof one was a Negro : and now lately Anno Dom. 1667, a Dutch ship driven by foul weather there, by chance have found their posterity (speaking good English) to amount to ten or twelve thousand persons, as they suppose : the whole relation follows, written, and left by the man himself a little before his death, and declared to the Dutch by his grandchild.</title>
+                  <author>Neville, Henry, 1620-1694.</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. for Allen Banks and Charles Harper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition dated 1668 (Wing N506) by Henry Cornelius van Sloetten (Henry Neville).</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Voyages, Imaginary.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Jason Colman</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Jason Colman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95125:1"/>
+            <pb facs="tcp:95125:1" rendition="simple:additions"/>
+            <p>The ISLE of PINES, OR, A late Diſcovery of a fourth ISLAND in <hi>Terra Auſtralis, Incognita.</hi>
+            </p>
+            <p>BEING A True Relation of certain <hi>Engliſh</hi> perſons, Who in the dayes of Queen <hi>Elizabeth,</hi> making a Voyage to the <hi>Eaſt India,</hi> were caſt away, and wrack<g ref="char:EOLhyphen"/>ed upon the Iſland near to the Coaſt of <hi>Terra Auſtra<g ref="char:EOLhyphen"/>lis, Incognita,</hi> and all drowned, except one Man and four Women, whereof one was a <hi>Negro.</hi> And now lately <hi>Anno Dom.</hi> 1667. a <hi>Dutch</hi> Ship driven by foul weather there, by chance have found their Poſterity (ſpeaking good <hi>Engliſh</hi>) to amount to ten or twelve thouſand perſons, as they ſuppoſe. The whole Rela<g ref="char:EOLhyphen"/>tion follows, written, and left by the Man himſelf a little before his death, and declared to the <hi>Dutch</hi> by his Grandchild.</p>
+            <p>Licenſed <hi>June</hi> 27. 1668.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. G.</hi> for <hi>Allen Banks</hi> and <hi>Charles Harper</hi> at the <hi>Flower-Deluice</hi> near <hi>Cripplegate</hi> Church, 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95125:2"/>
+            <pb n="1" facs="tcp:95125:2"/>
+            <head>The Iſle of <hi>Pines,</hi> Or a late Diſcovery of a fourth Iſland in <hi>Terra Auſtralis, Incognita.</hi> Be<g ref="char:EOLhyphen"/>ing a true Relation of certain <hi>Engliſh</hi> perſons, who in the dayes of Queen <hi>Elizabeth,</hi> making a Voyage to the <hi>Eaſt India,</hi> were cast away, and wracked upon the Iſland near to the Coast of <hi>Terra Auſtralis, Incognita,</hi> and all drowned, except one man and four women, whereof one was a <hi>Negro.</hi> And now lately <hi>Anno dom. 1667.</hi> a <hi>Dutch</hi> Ship driven by foul weather there, by chance have found their posterity (ſpeaking good <hi>Engliſh</hi>) to amount to ten or twelve thouſand perſons, as they ſup<g ref="char:EOLhyphen"/>poſe. The whole Relation follows, written and left by the man himſelf a little before his death, and declared to the <hi>Dutch</hi> by his Grandchild.</head>
+            <p>AWay to the Eaſt <hi>India's</hi> being lately diſcovered by Sea, to the South of <hi>Affrick</hi> by certain <hi>Portugals,</hi> far more ſafe and profitable then had been heretofore; certain <hi>Engliſh</hi> Merchants encouraged by the great advantages ariſing from the Eaſtern commodities, to ſettle a Factory there for the advantage of Trade. And having to that purpoſe obtained the Queens Royal Licence <hi>Anno Dom.</hi> 1589. 11. or 12. <hi>Eliz.</hi> furniſht out of thoſe parts four Ships, my Maſter being ſent as Factor to deal and Negotiate for them, and to ſettle there, took with him his whole Family, (that is to ſay) his Wife, and one ſon of about twelve years of age, one daughter of about fourteen years, two maid ſer<g ref="char:EOLhyphen"/>vants, one <hi>Negro</hi> female ſlave, and my ſelf, who went under him as his Book-keeper, with this company on Monday the
+<pb n="2" facs="tcp:95125:3"/>
+               <hi>third of</hi> April <hi>next following; (having all neceſſaries for Houſe-keeping when we ſhould come there, we emberqued our ſelves in the good ſhip called the</hi> India Merchant, <hi>of about four hundred and fifty Tuns burthen, and having a go it wind, we on the fourteenth of</hi> May <hi>had ſight of the</hi> Canaries <hi>and not long after of the Iſles of</hi> Cape Vert <hi>or</hi> Verd, <hi>where taking in ſuch things as were neceſſary for our Voyage, and ſome freſh Previſions we ſtearing our courſe South, and a point Eaſt, about the firſt of</hi> Auguſt <hi>came within ſight of the Iſland of St.</hi> Hellen, <hi>where we took in ſome freſh water, we then ſet our forces for the</hi> Cape <hi>of good Hope, where by Gods bleſsing after ſome ſickneſſ, whereof ſome of our Company died, though none of our Family: and hitherto we had met with none but calm weather, yet ſo it pleaſed God, when wer were almoſt in ſight of St.</hi> Laurence <hi>an Iſtand ſo called, one of the greateſt in the world, as Mr. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> overtaken and diſperſed by a great ſtorm of wind, which continued, with ſuch violence many dayes, that looſing all hopes of ſafety, being out of our own knowledge, and whether we ſhould fall on Falts or Ricks, uncertain in the night, not having the leaſt benefit of the light, we feared moſt, always wiſhing for day, and then for Land, cut it come too ſoon for our good; for about the firſt of</hi> October, <hi>our fears having made us forget how the time paſſed to a certainty; we about the break of day diſcerned Land (but what we knew not) the Land ſeemed high and Rockey, and the See continued ſtill very ſtorney and tempe<g ref="char:EOLhyphen"/>ſtuous, inſomuch as there, ſeemed no hope of ſafety, but looked ſuddenly by to periſh. As we grew near Land, perceiving no, ſafely in the ſhip which we looked would ſuddenly be beat in pieces: The Captain my Maſter, and ſome others got into the long Boat, thinking by that means to ſave their lives, and preſently after all the Seamen caſt themſelves over<g ref="char:EOLhyphen"/>board, thinking to ſave their lives by ſwimming, onely my Self, my Maſters Daughter, the two Maids, and the</hi> Negro <hi>were left on board, for we could not ſwim; but thoſe that left us, might as well have carried with us, for we ſaw them, or moſt of them periſh, our Selves now ready after to follow their for<g ref="char:EOLhyphen"/>tune, but God was pleaſed to ſpare our lives, as it were by</hi>
+               <pb n="3" facs="tcp:95125:3"/>miracle, though to further ſorrow; for when we come a<g ref="char:EOLhyphen"/>gainſt the Rocks, our Ship having endured two or three blows againſt the Rocks, (being now broken and quite foun<g ref="char:EOLhyphen"/>dred in the Waters, we having with much ado gotten our ſelves on the Bowſpright, which being broken off, was driven by the Waves into a ſmall Creek, wherein fell a little River, which being encompaſſed by the Rocks, was ſheltred from the wind ſo that we had opportunity to land our ſelves, (though almoſt drowned) in all four perſon, beſides the <hi>Negro; When we were got upon the Rocks, we could per<g ref="char:EOLhyphen"/>ceive the miſerable wrack to our great terrour, I had in my Pocket a little Tinder-box, and Steel, and Flint to ſtrike fire at any time upon occaſion, which ſerved now to good purpoſe, for its being ſo cloſe, preſerved the Tinder dry; with this, and the help of ſome old Rotten Wood which we got together, we kindled a Fire and dryed our ſelves, which done, I left my Fe<g ref="char:EOLhyphen"/>male company, and went to ſee, if I could find any of our Ships company, that were eſcaped, but could hear of none, though I hooted, and made all the noiſe I could; neither could I perceive the footſteps of any living Creature (ſave a few Birds, and other Bowls.</hi> At length it drawing towards the Evening I went back to my company, who were very much troubled for want of me. <hi>I being now all their ſtay in this loſt condition;</hi> we were at firſt affraid that the wild people of the Countrey might find us out, although we ſaw no footſteps of any, no not ſo much as a Path; the Woods round about being fult of Briers and Bramble, we alſo ſtood in fear of wild Beaſts, of ſuch alſo we ſaw none, nor ſign of any: But abve all, that we had greateſt reaſon to fear, was to be ſtar<g ref="char:EOLhyphen"/>ved to death for want of Food, <hi>but God had otherwiſe provided for us, as you ſhall know hereafter;</hi> this done; we ſpent our time in getting ſome broken pieces of Board and Planks, and ſome of the Sails an Rigging on Shoar for ſhelter; I ſet up two or three Poles, an drew two or three of the Cords and Line from Tree to Tree, over which throwing ſome Sail<g ref="char:EOLhyphen"/>cloathes and having gotten Wood by us, and three or four Sea g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wns which we had dryed, we took up our lodging for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> night altogether (the <hi>Blackmore</hi> being leſs ſenſible then
+<pb n="4" facs="tcp:95125:4"/>the reſt we made our Centry, we ſlept ſoundly that night, as having not ſlept in three or four nights before (our fears of what happened preventing us) neither could our hard lodging, fear, and danger hinder us, we were ſo overwatcht.</p>
+            <p>On the morrow, being well refreſht with ſleep, the wind ceaſed, and the weather was very warm; we went down the Rocks on the Sands at low Water, where we found great part of our lading, either on ſhore or floating near it. I by the help of my company, dragged moſt of it on ſhore; what was too heavy for us we broke, and unbound the Casks and Cheſts, and, taking out the goods, ſecured all; ſo that we wanted no clothes, nor any other proviſion neceſſary for Houſekeeping, to furniſh a better Houſe than any we were like to have; but no Victuals (the ſalt Water having ſpoiled all) onely one Cask of Bisket, being lighter than the reſt was dry; this ſerved for Bread a while, and we found no Land a ſort of fowl about the bigneſſe of a Swan, very heavy and fat, that by reaſon of their weight could not fly, of theſe we found little difficulty to kill, ſo that they were our preſent food; we carried out of <hi>England</hi> certain Hens and Cocks to eat by the way, ſome of theſe when the Ship was broken, by ſome means got to Land, and bred exceedingly, ſo that in the future they were a great help unto us; we found alſo, by a little River, in the flags, ſtore of eggs, of a ſort of fowl much like our Ducks, which were very good meat, ſo that we want<g ref="char:EOLhyphen"/>ed nothing to keep us alive.</p>
+            <p>On the morrow, which was the third day, as ſoon as it was morning, ſeeing nothing to diſturb us, I lookt out a convenient place to dwell in, that we might build us a Hut to ſhelter us from the weather, and from any other danger of annoyance, from wild Beaſts (if any ſhould find us out): So cloſſe by a large Spring which roſe out of a high hill over looking the Sea; on the ſide of a Wood, having a proſpect towards the Sea (by the help of an Ax and ſome other implements, for we had all neceſſaries, the working of the Sea, having caſt up moſt of our goods) I cut down all the ſtreighteſt poles I could find, and which were enough for my purpoſe, by the help of my company, (neceſſity
+<pb n="5" facs="tcp:95125:4"/>being our Maſter) I digged holes in the earth, ſetting my poles at an equal diſtance, and nailing the broken boards of the Casks, Cheſts, and Cabins, and ſuch like to them, making my door to the Seaward, and having covered the top, with Sail clothes ſtrain'd, and nail'd; I in the ſpace of a week had made a large Cabbin big enough to hold all our goods and our ſelves in it; I alſo placed our Hamocks for lodging, purpoſing (if it pleaſed God to ſend any Ship that way) we might be tranſported home, but it never came to paſs, the place, wherein we were (as I conceived) being much out of the way.</p>
+            <p>We having now lived in this manner full four moneths, and not ſo much as ſeeing or hearing of any wild people or of any of our own company, more then our ſelves (they be<g ref="char:EOLhyphen"/>ing found now by experience to be all drowned) and the place as we after found, being a large Iſland, and diſjoyned, and out of ſight of any other Land, was wholly uninhabited by any people, neither was there any hurtful beaſt to annoy us. But on the contrary, the Countrey ſo very pleaſant, being always clothed with green, and full of pleaſant fruits, and variety of Birds, ever warm, and never colder then in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in <hi>September:</hi> ſo that this place (had it the culture that skilful people might beſtow on it) would prove a <hi>Para<g ref="char:EOLhyphen"/>diſe.</hi>
+            </p>
+            <p>The Woods afforded us a ſort of Nuts, as big as a large Apple, whoſe kernil being pleaſant and dry, we made uſe of inſtead of Bread, that Fowl before mentioned, and a ſort of Water-fowl like Ducks, and their Eggs, and a Beaſt about the ſize of a Goat, and almoſt ſuch a like Creature, which brought two young ones at a time, and that twice a year, of which the Low Lands and Woods were very full, being a very harmleſs Creature and tame, ſo that we could eaſily take and kill them: Fiſh alſo, eſpecially Shell-fiſh (which we could beſt come by) we had great ſtore of, ſo that in effect as to Food we wanted nothing; and thus, and by ſuch like helps, we continued ſix moneths, without any diſturbance or want.</p>
+            <p>Idleneſs and fulneſs of every thing begot in me a deſire
+<pb n="6" facs="tcp:95125:5"/>of enjoying the Women, beginning now to grow more fa<g ref="char:EOLhyphen"/>miliar. I had perſwaded the two Maids to let me lie with them, which I did at firſt in private, but after, cuſtome tak<g ref="char:EOLhyphen"/>ing away ſhame (there being none but us) we did it more openly, as our Luſt gave us liberty; afterwards my Maſters Daughter was content alſo to do as we did; the truth is, they were all handſome women, when they had clothes, and well ſhaped, feeding well. For we wanted no Food, and li<g ref="char:EOLhyphen"/>ving idlely, and ſeeing us at liberty to do our wills, without hope of ever returning home made us thus bold: One of the firſt of my Conſorts, with whom I firſt accompanied (the talleſt and handſomeſt) proved preſently with child, the ſe<g ref="char:EOLhyphen"/>cond was my Maſters Daughter, and the other alſo not long after fell into the ſame condition: none now remaining but my <hi>Megro,</hi> who ſeeing what we did, longed alſo for her ſhare one night, I being aſleep, my <hi>Negro</hi> (with the con<g ref="char:EOLhyphen"/>ſent of others) got cloſe to me, thinking it being dark to begule me, but I awaking and feeling her, and perceiving who it was, yet willing to try the difference, ſatisfied my ſelf with her, as well as with one of the reſt; that night al<g ref="char:EOLhyphen"/>though the firſt time, ſhe proved alſo with child, ſo that in the year of our being here, all my women were with child by me, and they all coming at different ſeaſons, were a great help to one another.</p>
+            <p>The firſt brought me a brave boy, my Maſters Daughter was the youngeſt ſhe brought me a Girl, ſo did the other Maid, who being ſomething fat ſped worſe at her labour, <hi>the</hi> Negro <hi>had no pain at all, and brought me a fine white Girle, ſo I had one Boy, and three Girles:</hi> the Women were ſoon well again, <hi>and the two firſt with child again, before the two laſt were brought to bed:</hi> My cuſtome being not to lie with any of them after they were with child, till other were ſo like<g ref="char:EOLhyphen"/>wiſe; <hi>and not with the Black, at all after: ſhe was with child:</hi> which commonly was at the firſt tiem, I lay with her, which <hi>was in the night and not elſe,</hi> my ſtomach would not ſerve me, although ſhe was one of the handſomeſt Blacks, I had ſeen, and her children as comely as any fo the reſt; <hi>we had no clothes for them, and therefore when they had ſuckt, we ſaid, them in M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe to ſleep, and took no further care of them,</hi> for we knew, when they were gone more would come; the Wo<g ref="char:EOLhyphen"/>men
+<pb n="7" facs="tcp:95125:5"/>never failing once a year at leaſt, and none of the Children (for all the hardſhip we put them to) were ever ſick; ſo that wanting now nothing but Cloathes, nor them much neither, other then for decency, the warmth of the Countrey and Cuſtome ſupplying that Defect, we were now well ſatisfied with our condition, our Family beginning to grow large, and there being nothing to hurt us, we many times lay abroad on Moſſey Banks, under the ſhelter of ſome Trees, or ſuch like (for having nothing elſe to do) I had made me ſeveral Arbors to ſleep in with my Women in the heat of the day, in theſe I and my Women paſſed the time away, they being never willing to be out of my company.</p>
+            <p>And having now no thought of ever returning home, as having reſolved and ſworn each to other, never to part or leave one another, or the place; having by my ſeveral Wives, forty ſeven Children, Boys and Girls, but moſt Girls, and growing up apace, we were all of us very fleſhy, the Coun<g ref="char:EOLhyphen"/>try ſo well agreeing with us, that we never ailed any thing; my <hi>Negro</hi> having had twelve, was the firſt that left bearing, ſo I never medled with her more: My Maſters Daughter (by whom I had moſt Children, being the youngeſt and hand<g ref="char:EOLhyphen"/>ſomeſt) was moſt fond of me, and I of her. Thus we lived for ſixteen years, till perceiving my eldeſt Boy to mind the ordinary work of Nature, by ſeeing what we did, I gave him a Mate, and ſo I did to all the reſt, as faſt as they grew up, and were capable: My Wives having left bearing, my chil<g ref="char:EOLhyphen"/>dren began to breed apace, ſo we were like to be a multitude; My firſt Wife brought me thirteen Children, my ſecond ſeven, my Maſters Daughter fifteen, and the <hi>Negro</hi> twelve, in all forty ſeven.</p>
+            <p>After we had lived there twenty two years, my <hi>Negro</hi> died ſuddenly, but I could not percive any thing that ailed her; moſt of my children being grown, as faſt as we married them, I ſent them and placed them over the River by themſelves ſe<g ref="char:EOLhyphen"/>verally, becauſe we would not peſter one another; and now they being all grown up, and gone, and married after our man<g ref="char:EOLhyphen"/>ner (ſome two or three of the youngeſt) for (growing my ſelf into years) I liked not the wanton annoyance of young company.</p>
+            <pb n="8" facs="tcp:95125:6"/>
+            <p>Thus having lived to the ſixtieth year of my age, and the fortieth of my coming thither, at which time I ſent for all of them to bring their children, and there were in number deſcended from me by theſe four Women, of my Children, Grand-children, &amp; great Grand-children, five hundred ſixty five of both ſorts; I took off the Males of one Family, and marri<g ref="char:EOLhyphen"/>ed them to the Females of another, not letting any to marry their ſiſters, as we did formerly out of neceſſity, ſo bleſſing God for his Providence and goodneſs, I diſmiſt them, I having taught ſome of my Children to read formerly, for I had left ſtill the Bible, I charged it ſhould be read once a moneth at a general meeting: At laſt one of my Wives died being ſixty eighth years of age, which I buried in a place, ſet out on pur<g ref="char:EOLhyphen"/>poſe, and within a year after another, ſo I had none now left but my Maſters Daughter, and we lived together twelve years longer, at length ſhe died alſo, ſo I buried her alſo next the place where I purpoſed to be buried my ſelf, and the tall Maid my firſt Wife next me on the other ſide, the <hi>Negro</hi> next without her, and the other Maid next my Maſters Daughter. I had now nothing to mind, but the place whether I was to go, being very old, almoſt eighty years, I gave my Cabin and Furniture that was left to my eldeſt ſon after my deceaſe, who had married my eldeſt Daughter by my be<g ref="char:EOLhyphen"/>loved Wife, whom I made King and Governour of all the reſt: I informed them of the Manners of <hi>Europe,</hi> and charged them to remember the Chriſtian Religion, after the manner of them that ſpake the ſame Language, and to admit no other, if hereafter any ſhould come and find them out.</p>
+            <p>And now once for all, I ſummoned them to come to me, that I might number them, which I did, and found the eſtimate to con<g ref="char:EOLhyphen"/>tain in or about the eightieth year of my age, and the fifty ninth of my coming there; in all of all ſorts one thouſand ſeven hundred eighty and nine. Thus praying God to multi<g ref="char:EOLhyphen"/>ply them, and ſend them the true light of the Goſpel, I laſt of all diſmiſt them: For, being now very old, and my ſight decayed, I could not expect to live long. I gave this Narra<g ref="char:EOLhyphen"/>tion (written with my own hand) to my Eldeſt Son, who now li<g ref="char:EOLhyphen"/>ved
+<pb n="9" facs="tcp:95125:6"/>with me, commanding him to keep it, and if any ſtran<g ref="char:EOLhyphen"/>gers ſhould come hither by chance, to let them ſee it, and take a Copy of it if they would, that our name be not loſt from off the earth. I gave this People (deſcended from me) the name of the <hi>ENGLISH PINES, George Pine</hi> being my name, and my Maſters Daughters name <hi>Sarah Engliſh,</hi> my two other Wives were <hi>Mary Sparkes,</hi> and <hi>Elizabeth Trevor,</hi> ſo their ſeveral Deſcendants are called the <hi>ENGLISH,</hi> the <hi>SPARKS,</hi> and the <hi>TREVORS,</hi> and the <hi>PHILLS,</hi> from the Chriſtian Name of the Negro, which was <hi>Phillippa,</hi> ſhe having no ſurname: And the general name of the whole the <hi>ENGLISH PINES;</hi> whom God bleſſe with the dew of Heaven, and the fat of the Earth, AMEN,</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
